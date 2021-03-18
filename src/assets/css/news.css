@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+.news {
+    padding: 0 2vw;
+    display: flex;
+    justify-content: space-between;
+    gap: 1vw;
+}
